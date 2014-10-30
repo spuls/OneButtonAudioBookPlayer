@@ -33,3 +33,10 @@ amplifier is needed. When using headphones this needs to be considered if dealin
 - The bottom and side parts are skrewed together. The top is "press"-fit - don't really press, be gentle.
 - SketchUp files are included (formerly known as Google SketchUp). Version 8 was used.
 - For simply printing stuff, the *.stl files are also included.
+
+## History
+The idea came to me in 2011. In the winter of 2012 I got to actually doing stuff. 
+Since December 2012 the device is in use by my grand mother (aged 90). First she actually listened to audio books with it.
+My parents put new books onto the SD card whenever needed. Nowadays she only listens to music with it. 
+Audio book require quite a bit of mental concentration which is not achievable for her for longer periods any more.
+There is enough music on the SD card to keep her happy for a long time. The repeating feature after the last file on card is reached helps in this case.
